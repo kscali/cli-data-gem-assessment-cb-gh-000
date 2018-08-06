@@ -16,5 +16,4 @@ class TopTechNews::CLI
         4. Products
     DOC     
   
-  end  
 end  
