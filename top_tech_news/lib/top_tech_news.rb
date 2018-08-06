@@ -4,4 +4,4 @@ module TopTechNews
   # Your code goes here...
 end
 
-require_relative "/"
+require_relative "/top_tech_new/cli"
