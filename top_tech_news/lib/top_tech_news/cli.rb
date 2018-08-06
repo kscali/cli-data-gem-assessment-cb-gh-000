@@ -9,5 +9,10 @@ class TopTechNews::CLI
   
   def list_topics
     #get topics
+    puts <<-DOC
+        1. Technology
+        2. Computers
+        3. Social Media
+        4. Products
   end  
 end  
