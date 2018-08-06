@@ -1,3 +1,5 @@
+
+
 class TopTechNews::CLI 
   
   def call 
