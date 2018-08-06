@@ -4,3 +4,5 @@ class TopTechNews::CLI
     puts "Top tech news."
     
   end   
+  
+end  
