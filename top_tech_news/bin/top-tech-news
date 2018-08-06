@@ -1,5 +1,5 @@
 #!/usr/bin//env ruby
 
-require '.lib/top_tech_news'
+require './lib/top_tech_news'
 
 TopTechNews::CLI.new.call
