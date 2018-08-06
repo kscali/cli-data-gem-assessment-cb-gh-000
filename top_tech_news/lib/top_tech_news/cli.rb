@@ -8,6 +8,6 @@ class TopTechNews::CLI
   end   
   
   def list_topics
-    
+    #get topics
   end  
 end  
